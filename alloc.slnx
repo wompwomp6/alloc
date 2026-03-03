@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="alloc/alloc.vcxproj" Id="8a684871-cb24-4872-b0d1-cadd8d0e0261" />
+</Solution>
